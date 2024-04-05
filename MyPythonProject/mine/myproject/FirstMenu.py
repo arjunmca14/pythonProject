@@ -1,0 +1,2 @@
+class firstMenu:
+    __data=""
